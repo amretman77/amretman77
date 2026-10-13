@@ -1,92 +1,166 @@
-# Hi, I'm Amr Mostafa Etman 
+<!-- ==================== HERO ==================== -->
 
-### Aspiring Data Engineer | Python • SQL • Big Data
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-amretman77-181717?style=for-the-badge&logo=github)](https://github.com/amretman77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amr-etman-71ba963a6/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:06B6D4&height=220&section=header&text=Amr%20Mostafa%20Etman&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Engineering%20%7C%20Python%20%7C%20SQL%20%7C%20Big%20Data&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Amr Mostafa Etman profile banner"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Useful+Insights;Building+Reliable+Data+Pipelines;Python+%7C+SQL+%7C+Data+Engineering;Learning+Distributed+Data+Processing" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/amretman77">
+<img src="https://img.shields.io/badge/GitHub-amretman77-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/amretman77?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-0369A1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science student at Alexandria University, focused on Data Engineering and building reliable data pipelines.
+I'm a Computer Science student at **Alexandria University**, focused on Data Engineering and building practical skills in data processing, databases, and pipeline development.
 
-I enjoy working with data from raw datasets to structured, analytics-ready information using Python, SQL, and database technologies.
+I enjoy working with raw datasets, transforming messy data into structured information, and preparing reliable datasets for analytics.
 
-- 🐍 Data cleaning and transformation with Python and Pandas
-- 🗄️ Database design and SQL querying
-- 🔄 Learning ETL pipelines and data orchestration
-- ⚡ Exploring distributed processing with Apache Spark and PySpark
-- 🐘 Learning Hadoop and HDFS
-- 🎯 Working toward building scalable data platforms
+- 🐍 Working with Python and Pandas for data manipulation.
+- 🗄️ Practicing SQL and relational database design with MySQL.
+- 🧹 Exploring data cleaning, validation, and transformation workflows.
+- ⚡ Learning Apache Spark and PySpark for distributed processing.
+- 🐘 Exploring Hadoop and HDFS for distributed storage.
+- 🔄 Learning workflow orchestration with Apache Airflow.
+- 🎯 Building practical projects to strengthen my Data Engineering foundations.
 
-## 💻 Tech Stack
+> My goal is to build reliable, maintainable data pipelines that turn raw data into analytics-ready datasets.
 
-**Programming & Data Analysis**
+## 🛠️ Technical Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+<div align="center">
 
-**Databases & SQL**
+### Programming & Data Processing
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL"/>
 
-**Big Data & Data Engineering**
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+### Big Data & Data Engineering
 
-**Tools**
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+<img src="https://img.shields.io/badge/PySpark-EE8A18?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+<img src="https://img.shields.io/badge/Hadoop_HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop HDFS"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### Development Tools
 
-## 🚀 Featured Project
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=dark" alt="Development tools"/>
 
-### 🛒 Olist Data Engineering Project
+</div>
 
-A data engineering project using the Brazilian Olist e-commerce dataset to prepare structured data for database storage and analysis.
+## 🚀 Featured Projects
 
-**Technologies:** Python, Pandas, SQL, MySQL
+### 01 — Data Engineering Project
 
-**Pipeline:**
+**Repository:** [DEPI Project](https://github.com/amretman77/depi-project)
 
-Raw CSV Data → Data Cleaning → Data Validation → MySQL Database → SQL Analysis
+A practical project focused on working with datasets and developing data preparation workflows.
 
-**Project Goals**
-- Clean and transform raw datasets
-- Handle missing values and inconsistent data
-- Organize customers, products, sellers, and orders data
-- Design relational tables with primary and foreign keys
-- Load processed data into MySQL
-- Prepare structured data for analytical queries
+**Areas of focus**
+- Organizing project structure and data files.
+- Cleaning and transforming datasets.
+- Using Python and Pandas for data preparation.
+- Preparing structured data for downstream analysis.
 
-🔗 [View Project on GitHub](https://github.com/amretman77/depi-project)
+**Technologies:** Python · Pandas · Jupyter Notebook
+
+### 02 — Pandas Practice & Data Analysis
+
+**Repository:** [Pandas Project](https://github.com/amretman77/pandas_project)
+
+Hands-on practice with data manipulation and analysis using Pandas.
+
+**Areas of focus**
+- DataFrame operations and indexing.
+- Handling missing values and data types.
+- Filtering, sorting, grouping, and aggregation.
+- Combining datasets and preparing data for analysis.
+
+**Technologies:** Python · Pandas · NumPy · Jupyter Notebook
+
+### 03 — More Projects
+
+Explore my other repositories for additional programming, data analysis, and learning projects.
+
+<div align="center">
+
+<a href="https://github.com/amretman77?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
+</a>
+
+</div>
 
 ## 📚 Currently Learning
 
-- Advanced SQL and query optimization
-- Data Warehousing and dimensional modeling
-- ETL/ELT pipeline development
-- Apache Spark and PySpark
-- Hadoop and HDFS
-- Apache Airflow and workflow orchestration
+<div align="center">
 
-## 📊 GitHub Stats
+| Area | Focus |
+|:---|:---|
+| SQL | Querying, joins, CTEs, and window functions |
+| Data Processing | Pandas transformations and data validation |
+| Data Warehousing | Fact tables, dimensions, and star schemas |
+| Distributed Processing | Apache Spark and PySpark |
+| Distributed Storage | Hadoop and HDFS |
+| Orchestration | Apache Airflow and DAGs |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amretman77&show_icons=true&hide_border=true&theme=github_dark)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amretman77&layout=compact&hide_border=true&theme=github_dark)
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amretman77&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amretman77&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=amretman77&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🎯 My Engineering Principles
+
+<div align="center">
+
+| Principle | What it means to me |
+|:---|:---|
+| **Data Quality** | Validate data before relying on it. |
+| **Reliability** | Build workflows that handle errors predictably. |
+| **Maintainability** | Keep code readable and projects organized. |
+| **Efficiency** | Choose appropriate tools and optimize when needed. |
+| **Continuous Learning** | Learn by building and improving real projects. |
+
+</div>
 
 ## 🤝 Let's Connect
 
-I'm interested in Data Engineering, Big Data, Data Warehousing, and distributed data processing.
+I'm interested in connecting with developers and data professionals, learning from real-world projects, and collaborating on data-focused solutions.
 
-Feel free to explore my repositories and connect with me!
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/amr-etman-71ba963a6/) • [GitHub](https://github.com/amretman77)
+<a href="https://github.com/amretman77">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+
+<!-- Add your LinkedIn profile URL when ready. -->
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:0F172A&height=110&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
